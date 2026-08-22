@@ -7,7 +7,7 @@ import Settings from "./pages/Settings"
 import Employees from "./pages/Employees"
 import Attendance from "./pages/Attendance"
 import Leave from "./pages/Leave"
-import Payslips from "./pages/Payslips"
+import Payslips from "./pages/PaySlips"
 import PrintPayslips from "./pages/PrintPayslips"
 import LoginForm from "./components/LoginForm"
 
